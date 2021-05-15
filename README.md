@@ -12,10 +12,10 @@ I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer
 - PHP 
 
 ### Worked For 
-- Varia Network [Minecraft Bedrock]
-- Aviacio [Senior Developer]
-- Anonymous Interactions RB World 2 [Junior Developer]
-
+- Varia Network MCBE [Owner / Head Developer]
+- Aviacio RBLX [Senior Developer]
+- Anonymous Interactions RBLX [Junior Developer]
+- RB World 2 [Animator / Developer]
 ### Contact Me 
 - xek#0001 [Discord]
 
