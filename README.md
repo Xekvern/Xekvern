@@ -16,10 +16,10 @@ I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer
 - RB World 2 [Junior Developer]
 - Instructor 
 
-### Github Stats
+### Top Languages
 
 ![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekyy&show_icons=true&theme=radical)
 
-### Top Languages
+### Github Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekyy&count_private=true&show_icons=true&theme=radical)
