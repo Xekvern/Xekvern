@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Xekyy/Xekyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Markel, a Pocketmine Developer and a Roblox Developer 
 
-Here are some ideas to get you started:
+### Learning
+- 🌱 I’m currently learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Roblox LUA
+- JavaScript
+- HTML / CSS
+- PHP 
+
+### Github Stats
+
+|[Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekyy&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekyy&count_private=true&show_icons=true&theme=radical)
