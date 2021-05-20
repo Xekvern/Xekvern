@@ -20,7 +20,7 @@ I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer
 - Anonymous Interactions RBLX [Junior Developer]
 - RB World 2 RBLX [Animator / Developer]
 ### Contact Me 
-- xek#0001 [Discord]
+- xek#0001 or xek#9741 [Discord]
 
 ### Top Languages
 
