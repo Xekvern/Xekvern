@@ -16,6 +16,8 @@ I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer
 
 ### Worked For 
 - Varia Network MCBE [Owner / Head Developer]
+- Zim Studios [Creator / Head Developer]
+- Vibe World [Creator]
 - Aviacio RBLX [Senior Developer]
 - Anonymous Interactions RBLX [Junior Developer]
 - RB World 2 RBLX [Animator / Developer]
