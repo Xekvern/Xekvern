@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer 
-
-### Learning
-- 🌱 I’m currently learning Python
 
 ### Skills
 - Roblox LUA
@@ -13,12 +7,6 @@ I am Xek or known as Markel, a Pocketmine Developer and a Roblox Developer
 
 ### Nationality
 - Filipino
-
-### Worked For 
-- Varia Network MCBE [Owner / Head Developer]
-- RB World 2 RBLX [Animator / Developer]
-### Contact Me 
-- xek#0001 or xek#9714 [Discord]
 
 ### Top Languages
 
