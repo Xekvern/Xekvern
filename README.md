@@ -1,8 +1,8 @@
 
 ### Skills
-- Roblox LUA
+- LUA
 - JavaScript
-- HTML / CSS
+- HTML
 - C++
 - PHP 
 
