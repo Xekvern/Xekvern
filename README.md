@@ -3,6 +3,7 @@
 - Roblox LUA
 - JavaScript
 - HTML / CSS
+- C++
 - PHP 
 
 ### Nationality
