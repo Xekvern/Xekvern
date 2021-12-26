@@ -2,7 +2,6 @@
 ### Skills
 - LUA
 - JavaScript
-- HTML
 - C++
 - PHP 
 
