@@ -11,8 +11,8 @@
 
 ### Top Languages
 
-![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekyy&show_icons=true&theme=radical)
+![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&show_icons=true&theme=radical)
 
 ### Github Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekyy&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical)
