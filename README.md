@@ -45,6 +45,8 @@
 
 #
 
-<p><img height="140px" width="355px" align="left" src="https://github-readme-stats.vercel.app/api?username=Xekvern&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical"/></p>
+![](https://github-readme-stats.vercel.app/api?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xekvern&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
