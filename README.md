@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-**`From the Philippines | Programming Since 2018`**
+**`A passionate Software Engineer from the Philippines.`**
 
 Hello! My name is Xekvern, and I'm delighted to tell you a little bit about myself. Since 2018, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
 
@@ -60,4 +60,4 @@ For me, programming has been a fantastic journey. I was attracted by the unlimit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xekvern&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
