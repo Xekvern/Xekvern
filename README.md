@@ -1,5 +1,6 @@
 # 👋 Xekvern
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 **`From the Philippines | Programming Since 2018`**
 
 Hello! My name is Xekvern, and I'm delighted to tell you a little bit about myself. Since 2018, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
