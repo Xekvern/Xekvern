@@ -28,12 +28,14 @@
  [![Video Games](https://img.shields.io/badge/-🎮 Video Games-000)](https://wikipedia.org/wiki/Video_game)
  [![Basketball](https://img.shields.io/badge/-🏀 Basketball-000)](https://en.wikipedia.org/wiki/Basketball)
  [![Mountain Biking](https://img.shields.io/badge/-⛰️ Mountain Biking-000)](en.wikipedia.org/wiki/Mountain_biking)
-[![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
+ [![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
 
-### ⠀Top Languages
+### Top Languages
 
 ![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&show_icons=true&theme=radical)
 
 ### Github Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical)      
+
+<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
