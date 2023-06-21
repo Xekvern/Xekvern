@@ -45,9 +45,6 @@
 
 #
 
-![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical)      
-
 <p><img height="140px" width="355px" align="left" src="https://github-readme-stats.vercel.app/api?username=Xekvern&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=radical" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical"/></p>
 
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
