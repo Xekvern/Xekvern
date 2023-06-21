@@ -2,6 +2,13 @@
 
 **`Programming Since 2018`**
 
+<details>
+ <summary><h3>👨‍💻 About Me </h3></summary>
+Hello! My name is Xekvern, and I'm delighted to tell you a little bit about myself. Since 2018, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
+
+For me, programming has been a fantastic journey. I was attracted by the unlimited possibilities of coding from the minute I stepped into it. I've had the good fortune to experiment with many programming languages, frameworks, and tools, which has allowed me to consistently broaden my skill set. I've improved my problem-solving skills, acquired an eye for detail, and built a strong analytical attitude as a result of this adventure.
+ 
+   
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSDMXQy5w0XeNisxiDdBosA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
