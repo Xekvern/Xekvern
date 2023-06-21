@@ -44,12 +44,7 @@
  [![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
 
 
-### Top Languages
-
 ![Xek's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&show_icons=true&theme=radical)
-
-### Github Statistics
-
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Xekvern&count_private=true&show_icons=true&theme=radical)      
 
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
